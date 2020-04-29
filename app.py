@@ -9,8 +9,8 @@ ibu_values=[35, 60, 85, 75]
 abv_values=[5.4, 7.1, 9.2, 4.3]
 
 
-color1='darktblue'
-color2='lighgreen'
+color1='darkblue'
+color2='lightgreen'
 mytitle='Beer Comparison'
 tabtitle='beer!'
 myheading='Flying Dog Beers'
